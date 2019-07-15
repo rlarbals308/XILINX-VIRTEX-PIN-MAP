@@ -1,0 +1,35 @@
+(ExpressProject "my_libs"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "\\user-pc\users\user\desktop\orcad work\my_libs\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\my_libs.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (MPSSessionName "user")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "\\user-pc\users\user\desktop\orcad work\my_libs\my_libs.dsn")
+      (Path "Design Resources"
+         "\\user-pc\users\user\desktop\orcad work\my_libs\my_libs.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "\\user-pc\users\user\desktop\orcad work\my_libs\library1.olb")
+      (Select "Design Resources" "Library"
+         "\\user-pc\users\user\desktop\orcad work\my_libs\library1.olb"
+         "XILINX VIRTEX"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 427"))
+      (Tab 0))))
