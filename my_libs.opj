@@ -26,7 +26,7 @@
          "\\user-pc\users\user\desktop\orcad work\my_libs\library1.olb")
       (Select "Design Resources" "Library"
          "\\user-pc\users\user\desktop\orcad work\my_libs\library1.olb"
-         "XILINX VIRTEX"))
+         "XILINX VIRTEX2"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
