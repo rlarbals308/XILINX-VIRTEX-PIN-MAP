@@ -23,10 +23,7 @@
          "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library"
-         "\\user-pc\users\user\desktop\orcad work\my_libs\library1.olb")
-      (Select "Design Resources" "Library"
-         "\\user-pc\users\user\desktop\orcad work\my_libs\library1.olb"
-         "XILINX VIRTEX2"))
+         "\\user-pc\users\user\desktop\orcad work\my_libs\library1.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
